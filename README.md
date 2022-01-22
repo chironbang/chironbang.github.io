@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Chiron Bang
+
+![profil](https://user-images.githubusercontent.com/52039386/150623083-d98234bc-e2ba-4bf9-8c45-ee1c04caf59d.jpg)
+[Resume]()
 
 You can use the [editor on GitHub](https://github.com/chiron-bang/chiron-bang.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](![profil](https://user-images.githubusercontent.com/52039386/150623073-7c4679ca-373b-44c8-b76c-81087d6c126f.jpg))
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
