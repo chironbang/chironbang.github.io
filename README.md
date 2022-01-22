@@ -1,9 +1,10 @@
 ## Chiron Bang
 
 ![profil](https://user-images.githubusercontent.com/52039386/150623083-d98234bc-e2ba-4bf9-8c45-ee1c04caf59d.jpg)
-[Resume]()
 
-You can use the [editor on GitHub](https://github.com/chiron-bang/chiron-bang.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Resume](https://github.com/chiron-bang/chiron-bang.github.io/blob/main/Resume.pdf)  |  [LinkedIn](https://cm.linkedin.com/in/chiron-bang) | [Twitter](https://twitter.com/chiron_bang) | [GitHub](https://github.com/chiron-bang)
+
+I am a PhD student in Computer Science, Data Science and Analytics concentration at [Florida Atlantic University](fau.edu)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
