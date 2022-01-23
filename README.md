@@ -52,7 +52,7 @@ of our platform (mainly the phase intensities and tensions) we use an algorithm 
 of this electrical line. The front-end was mostly coded using the well-known Bootstrap framework and
 the back-end was coded using the python Django framework.
 
-[Video Demo]()
+[Video Demo](https://github.com/chiron-bang/chiron-bang.github.io/blob/main/Defaults%20in%20Electrical%20Lines.mp4)
 
 
 ```markdown
