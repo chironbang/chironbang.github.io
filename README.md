@@ -34,7 +34,8 @@ in back-end and Bootstrap in front-end) which gives various features:
 
 The aim of this project was to simulate (using Matlab and Simulink) different type of saccades (simple
 ones { from 0 to 10◦ for instance, successive ones {from 0 to 10, 10 to 20◦). To carry out this project,
-we have done the following tasks: Presentation of the eye and the muscles implicated in saccades;
+we have done the following tasks:
+- Presentation of the eye and the muscles implicated in saccades;
 - Making a short review of the literature concerning the modelling of an eye and the surrounding
 muscles involved in the saccadic movement, hence we made an appropriate model choice;
 - Breaking down the system into a linear system then represent in using Simulink blocks;
@@ -42,7 +43,16 @@ muscles involved in the saccadic movement, hence we made an appropriate model ch
 - Simulating the saccades in an open-loop no feedback system and then with the PID controller;
 - Comparing and commenting using resulting data and graphs.
 
+[Report](https://github.com/chiron-bang/chiron-bang.github.io/blob/main/Report.pdf)
 
+## Platform for Electrical Default Detection
+**September 2019**
+After gathering and storing all the data which describes the state of an electrical line in the database
+of our platform (mainly the phase intensities and tensions) we use an algorithm which permits to determine if there is a fault and if so, which type of fault it is; finally we generate a report for the state
+of this electrical line. The front-end was mostly coded using the well-known Bootstrap framework and
+the back-end was coded using the python Django framework.
+
+[Video Demo]()
 
 
 ```markdown
