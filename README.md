@@ -24,7 +24,26 @@ in back-end and Bootstrap in front-end) which gives various features:
 - creation, modification of a document and an audit report;
 - transcription of a scanned document to a text file;
 - a discussion forum.
-[Link to the presentation]() / [Link to a video demo]()
+
+
+[Report](https://github.com/chiron-bang/chiron-bang.github.io/blob/main/Master%20Thesis.pdf) / [Presentation](https://github.com/chiron-bang/chiron-bang.github.io/blob/main/Presentation.pptx)
+
+
+## Simulation of the saccadic eye movement
+**September 2019-January 2020**
+
+The aim of this project was to simulate (using Matlab and Simulink) different type of saccades (simple
+ones { from 0 to 10◦ for instance, successive ones {from 0 to 10, 10 to 20◦). To carry out this project,
+we have done the following tasks: Presentation of the eye and the muscles implicated in saccades;
+- Making a short review of the literature concerning the modelling of an eye and the surrounding
+muscles involved in the saccadic movement, hence we made an appropriate model choice;
+- Breaking down the system into a linear system then represent in using Simulink blocks;
+- Designing a PID Controller for the system;
+- Simulating the saccades in an open-loop no feedback system and then with the PID controller;
+- Comparing and commenting using resulting data and graphs.
+
+
+
 
 ```markdown
 Syntax highlighted code block
