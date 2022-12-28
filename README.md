@@ -1,8 +1,8 @@
 
 ![profil](https://user-images.githubusercontent.com/52039386/150623083-d98234bc-e2ba-4bf9-8c45-ee1c04caf59d.jpg)
 
-[LinkedIn](https://cm.linkedin.com/in/chironbang) | [Twitter](https://twitter.com/chironbang) | [GitHub](https://github.com/chironbang)
- 
+[Resume](https://github.com/chironbang/chironbang.github.io/blob/main/Resume.pdf) | [LinkedIn](https://cm.linkedin.com/in/chironbang) | [Twitter](https://twitter.com/chironbang) | [GitHub](https://github.com/chironbang) | [chironbang.com](chironbang.com)
+  [chironbang.com](chironbang.com)
 I am a PhD Candidate in Computer Science at [Florida Atlantic University](https://www.fau.edu) (FAU). My interest spans on Dynamic System Modelling using Deep Learning approaches, Marine Animal sound detection and classification using Machine learning.
 
 Prior to joining FAU, I occupied a System and Network Administrator role at [Africa Data Center](https://www.adac.cm/) (Professional Internship). I  hold a Master degree in Telecommunications Engineering from the National Advanced School of Engineering of Yaounde.
