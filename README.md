@@ -1,7 +1,7 @@
 
 ![profil](https://user-images.githubusercontent.com/52039386/150623083-d98234bc-e2ba-4bf9-8c45-ee1c04caf59d.jpg)
 
-[Resume](https://github.com/chironbang/chironbang.github.io/blob/main/Resume.pdf) | [LinkedIn](https://cm.linkedin.com/in/chironbang) | [Twitter](https://twitter.com/chironbang) | [GitHub](https://github.com/chironbang) | [chironbang.com](chironbang.com)
+[Resume](https://github.com/chironbang/chironbang.github.io/blob/main/Resume.pdf) | [LinkedIn](https://cm.linkedin.com/in/chironbang) | [Twitter](https://twitter.com/chironbang) | [GitHub](https://github.com/chironbang) | [chironbang.com](chironbang.com) | [Email](fbangnjenjoc2021@fau.edu)
 
 
 I am a PhD Candidate in Computer Science at [Florida Atlantic University](https://www.fau.edu) (FAU). My interest spans on Dynamic System Modelling using Deep Learning approaches, Marine Animal sound detection and classification using Machine learning.
