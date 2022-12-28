@@ -1,11 +1,2 @@
-title: Chiron Bang
-
-description: > # this means to ignore newlines until "show_excerpts:"
-  Hi, I'm Chiron Bang, a PhD Candidate at FAU. You will find here descriptions 
-  of the projects I have worked on. 
-
-show_excerpts: false # set to true to show excerpts on the homepage
-
-
 # Build settings
 theme: minima
