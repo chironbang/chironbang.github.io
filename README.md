@@ -8,7 +8,7 @@ I am a PhD Candidate in Computer Science at [Florida Atlantic University](https:
 
 Prior to joining FAU, I occupied a System and Network Administrator role at [Africa Data Center](https://www.adac.cm/) (Professional Internship). I  hold a Master degree in Telecommunications Engineering from the National Advanced School of Engineering of Yaounde.
 
-### Projects
+# Projects
 
 ## Realization of a productivity tool to support information system security auditors    
 **March-July 2020**
@@ -25,7 +25,7 @@ in back-end and Bootstrap in front-end) which gives various features:
 - a discussion forum.
 
 
-[Report](https://github.com/chiron-bang/chiron-bang.github.io/blob/main/Master%20Thesis.pdf) / [Presentation](https://github.com/chiron-bang/chiron-bang.github.io/blob/main/Presentation.pptx)
+[Report](https://github.com/chironbang/chironbang.github.io/blob/main/Master%20Thesis.pdf) / [Presentation](https://github.com/chironbang/chironbang.github.io/blob/main/Presentation.pptx)
 
 
 ## Simulation of the saccadic eye movement
@@ -42,7 +42,7 @@ muscles involved in the saccadic movement, hence we made an appropriate model ch
 - Simulating the saccades in an open-loop no feedback system and then with the PID controller;
 - Comparing and commenting using resulting data and graphs.
 
-[Report](https://github.com/chiron-bang/chiron-bang.github.io/blob/main/Report.pdf)
+[Report](https://github.com/chironbang/chironbang.github.io/blob/main/Report.pdf)
 
 ## Platform for Electrical Default Detection
 **September 2019**
@@ -51,4 +51,4 @@ of our platform (mainly the phase intensities and tensions) we use an algorithm 
 of this electrical line. The front-end was mostly coded using the well-known Bootstrap framework and
 the back-end was coded using the python Django framework.
 
-[Video Demo](https://github.com/chiron-bang/chiron-bang.github.io/blob/main/Defaults%20in%20Electrical%20Lines.mp4)
+[Video Demo](https://github.com/chironbang/chironbang.github.io/blob/main/Defaults%20in%20Electrical%20Lines.mp4)
