@@ -1,4 +1,3 @@
-## Chiron Bang
 
 ![profil](https://user-images.githubusercontent.com/52039386/150623083-d98234bc-e2ba-4bf9-8c45-ee1c04caf59d.jpg)
 
