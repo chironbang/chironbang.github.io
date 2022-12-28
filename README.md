@@ -2,7 +2,7 @@
 
 ![profil](https://user-images.githubusercontent.com/52039386/150623083-d98234bc-e2ba-4bf9-8c45-ee1c04caf59d.jpg)
 
-[Resume](https://github.com/chironbang/chiron-bang.github.io/blob/main/Resume.pdf)  |  [LinkedIn](https://cm.linkedin.com/in/chironbang) | [Twitter](https://twitter.com/chironbang) | [GitHub](https://github.com/chironbang)
+[LinkedIn](https://cm.linkedin.com/in/chironbang) | [Twitter](https://twitter.com/chironbang) | [GitHub](https://github.com/chironbang)
  
 I am a PhD student in Computer Science, Data Science and Analytics concentration at [Florida Atlantic University](fau.edu) (FAU). My interest spans on Computer Vision for medical image analysis and scene understanding, Reinforcement Learning in the aim of approaching Artificial General Intelligence and Probabilistic Graphical Models.
 
