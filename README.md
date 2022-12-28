@@ -4,10 +4,9 @@
 
 [LinkedIn](https://cm.linkedin.com/in/chironbang) | [Twitter](https://twitter.com/chironbang) | [GitHub](https://github.com/chironbang)
  
-I am a PhD student in Computer Science, Data Science and Analytics concentration at [Florida Atlantic University](fau.edu) (FAU). My interest spans on Computer Vision for medical image analysis and scene understanding, Reinforcement Learning in the aim of approaching Artificial General Intelligence and Probabilistic Graphical Models.
+I am a PhD Candidate in Computer Science at [Florida Atlantic University](https://www.fau.edu) (FAU). My interest spans on Dynamic System Modelling using Deep Learning approaches, Marine Animal sound detection and classification using Machine learning.
 
-Prior to joining FAU, I occupied a System and Network Administrator role at [Africa Data Center](https://www.adac.cm/) (Professional Internship). I  hold a Master degree in Telecommunications Engineering from the [National Advanced School of Engineering of Yaounde](https://polytechnique.cm/), CTI (Commission des Titres D'ingénieurs) and EUR-ACE (European Accredited Engineer) [certified](https://accreditation.org/university/cm/ecole-nationale-superieure-polytechnique-de-yaounde).
-
+Prior to joining FAU, I occupied a System and Network Administrator role at [Africa Data Center](https://www.adac.cm/) (Professional Internship). I  hold a Master degree in Telecommunications Engineering from the National Advanced School of Engineering of Yaounde.
 
 ### Projects
 
